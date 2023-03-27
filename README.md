@@ -1,5 +1,6 @@
 Hướng dẫn khởi chạy chap-app
-how to run:
+
+How to run:
 
 first step: create new react project and install some npm package
 
